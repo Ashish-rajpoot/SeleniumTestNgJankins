@@ -1,0 +1,64 @@
+2020-12-01 14:24:33,371 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-01 18:04:18,967 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\pom.xml
+2020-12-01 18:04:19,967 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom.tests:SeleniumTestNGjankins:0.0.1-SNAPSHOT @ F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\pom.xml.
+2020-12-01 18:04:21,205 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumTestNGjankins/src/main/java
+2020-12-01 18:04:21,341 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumTestNGjankins/src/test/java
+2020-12-01 18:04:21,510 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-12-01 18:04:22,411 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:04:22,411 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:04:22,414 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:04:22,414 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:06:43,962 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom.tests:SeleniumTestNGjankins:0.0.1-SNAPSHOT @ F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\pom.xml.
+2020-12-01 18:06:44,782 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:06:44,782 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:06:44,784 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:06:44,784 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:06:46,483 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:06:46,484 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:06:46,485 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:06:46,485 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:15:04,119 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecom.tests:SeleniumTestNGjankins:0.0.1-SNAPSHOT @ F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\pom.xml.
+2020-12-01 18:15:04,400 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:15:04,400 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:15:04,401 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:15:04,401 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:18:33,050 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:18:33,050 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:18:33,051 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:18:33,051 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:18:34,073 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:18:34,074 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:18:34,075 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:18:34,075 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:24:32,495 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:24:32,495 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:24:32,496 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:24:32,496 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:31:34,947 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:31:34,947 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:31:34,948 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:31:34,948 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:31:49,600 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:31:49,600 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:31:49,600 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:31:49,601 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:39:47,815 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:39:47,815 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:39:47,816 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:39:47,816 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:40:39,524 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:40:39,525 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:40:39,526 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:40:39,526 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:42:43,723 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:42:43,724 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:42:43,724 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:42:43,725 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:43:05,931 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:43:05,931 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:43:05,933 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:43:05,933 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-01 18:45:45,625 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:45:45,625 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-01 18:45:45,627 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-01 18:45:45,627 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
