@@ -62,3 +62,8 @@
 2020-12-01 18:45:45,625 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
 2020-12-01 18:45:45,627 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-01 18:45:45,627 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
+2020-12-02 14:46:47,488 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-02 14:46:51,894 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 14:46:51,895 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\main\resources
+2020-12-02 14:46:51,897 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 14:46:51,897 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\SeleniumTestNGJenkins\SeleniumTestNGjankins\src\test\resources
