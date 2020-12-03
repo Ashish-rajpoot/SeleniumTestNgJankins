@@ -5,23 +5,23 @@
       <![CDATA[Before Test]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-12-02T15:57:03 IST" name="Default suite" finished-at="2020-12-02T15:57:13 IST" duration-ms="10214">
+  <suite started-at="2020-12-03T17:35:10 IST" name="Default suite" finished-at="2020-12-03T17:35:19 IST" duration-ms="9246">
     <groups>
     </groups>
-    <test started-at="2020-12-02T15:57:03 IST" name="Default test" finished-at="2020-12-02T15:57:13 IST" duration-ms="10214">
+    <test started-at="2020-12-03T17:35:10 IST" name="Default test" finished-at="2020-12-03T17:35:19 IST" duration-ms="9246">
       <class name="com.ecom.tests.SeleniumTestNGjankins.ApplicationTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.ecom.tests.SeleniumTestNGjankins.ApplicationTest@419c5f1a]" started-at="2020-12-02T15:57:03 IST" name="beforeTest" finished-at="2020-12-02T15:57:03 IST" duration-ms="10" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.ecom.tests.SeleniumTestNGjankins.ApplicationTest@2bbf180e]" started-at="2020-12-03T17:35:10 IST" name="beforeTest" finished-at="2020-12-03T17:35:10 IST" duration-ms="10" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Before Test]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="testEasy()[pri:0, instance:com.ecom.tests.SeleniumTestNGjankins.ApplicationTest@419c5f1a]" started-at="2020-12-02T15:57:03 IST" name="testEasy" finished-at="2020-12-02T15:57:13 IST" duration-ms="9554" status="PASS">
+        <test-method signature="testEasy()[pri:0, instance:com.ecom.tests.SeleniumTestNGjankins.ApplicationTest@2bbf180e]" started-at="2020-12-03T17:35:10 IST" name="testEasy" finished-at="2020-12-03T17:35:19 IST" duration-ms="8573" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.ecom.tests.SeleniumTestNGjankins.ApplicationTest@419c5f1a]" started-at="2020-12-02T15:57:13 IST" name="afterTest" finished-at="2020-12-02T15:57:13 IST" duration-ms="619" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.ecom.tests.SeleniumTestNGjankins.ApplicationTest@2bbf180e]" started-at="2020-12-03T17:35:19 IST" name="afterTest" finished-at="2020-12-03T17:35:19 IST" duration-ms="623" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

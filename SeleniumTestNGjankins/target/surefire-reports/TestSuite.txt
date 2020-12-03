@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.389 s <<< FAILURE! - in TestSuite
+testEasy(com.ecom.tests.SeleniumTestNGjankins.ApplicationTest)  Time elapsed: 14.019 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+java.net.SocketTimeoutException: timeout
+Build info: version: '3.9.0', revision: '698b3178f0', time: '2018-02-05T14:26:55.441Z'
+System info: host: 'LAPTOP-CTGR88I4', ip: '192.168.43.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at com.ecom.tests.SeleniumTestNGjankins.ApplicationTest.testEasy(ApplicationTest.java:21)
+Caused by: java.net.SocketTimeoutException: timeout
+	at com.ecom.tests.SeleniumTestNGjankins.ApplicationTest.testEasy(ApplicationTest.java:21)
+Caused by: java.net.SocketException: Socket closed
+	at com.ecom.tests.SeleniumTestNGjankins.ApplicationTest.testEasy(ApplicationTest.java:21)
+
